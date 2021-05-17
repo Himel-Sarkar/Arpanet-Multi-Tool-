@@ -68,6 +68,8 @@ echo [40;32m /====================================\
 echo [40;32m:           Seja Bem vindo             :
 echo [40;32m:                 a                    :
 echo [40;32m:              Arpanet                 :
+echo [40;32m:           user: arpanet              :
+echo [40;32m:           pass: arpnet               :
 echo [40;32m \====================================/
 echo.
 set /p user=Username:  
